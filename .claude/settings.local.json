@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze *)",
+      "Skill(run)",
+      "Skill(run:*)"
+    ]
+  }
+}
